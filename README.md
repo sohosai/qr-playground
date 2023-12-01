@@ -14,6 +14,6 @@ shiny + shinydashboard or Next.js
 
 qrcode で完成
 
-**api**
+**API**
 
 plumber
